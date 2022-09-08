@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaTelefonica.Web", "BancaTelefonica.Web\BancaTelefonica.Web.csproj", "{69EA31BC-423D-42BD-841B-0ADF9D085FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaTelefonica.Models", "BancaTelefonica.Models\BancaTelefonica.Models.csproj", "{91FBCE96-16CA-4A41-831B-0A6834E64C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaTelefonica.ViewModels", "BancaTelefonica.ViewModels\BancaTelefonica.ViewModels.csproj", "{DF7B9D23-26CC-4D2B-96DA-BDE3E18485E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaTelefonica.Tools", "BancaTelefonica.Tools\BancaTelefonica.Tools.csproj", "{05820ABA-CC03-4B6D-85D6-FA7290FBA5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69EA31BC-423D-42BD-841B-0ADF9D085FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EA31BC-423D-42BD-841B-0ADF9D085FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EA31BC-423D-42BD-841B-0ADF9D085FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EA31BC-423D-42BD-841B-0ADF9D085FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FBCE96-16CA-4A41-831B-0A6834E64C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FBCE96-16CA-4A41-831B-0A6834E64C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FBCE96-16CA-4A41-831B-0A6834E64C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FBCE96-16CA-4A41-831B-0A6834E64C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7B9D23-26CC-4D2B-96DA-BDE3E18485E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7B9D23-26CC-4D2B-96DA-BDE3E18485E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7B9D23-26CC-4D2B-96DA-BDE3E18485E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7B9D23-26CC-4D2B-96DA-BDE3E18485E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05820ABA-CC03-4B6D-85D6-FA7290FBA5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05820ABA-CC03-4B6D-85D6-FA7290FBA5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05820ABA-CC03-4B6D-85D6-FA7290FBA5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05820ABA-CC03-4B6D-85D6-FA7290FBA5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D10CD2-9BC0-4F39-886C-2C72DB23EAC0}
+	EndGlobalSection
+EndGlobal
